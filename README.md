@@ -11,7 +11,7 @@ A simple Discord bot that pings `@everyone` in a specified channel and then inst
 
 ### Prerequisites
 
-- Python 3.8+
+- [Python](https://www.python.org/downloads/release/python-3119/) 3.8+
 - `discord.py` library
 
 ### Steps
