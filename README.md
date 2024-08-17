@@ -16,20 +16,13 @@ A simple Discord bot that pings `@everyone` in a specified channel and then inst
 
 ### Steps
 
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/your-username/ghost-ping-bot.git
-    cd ghost-ping-bot
-    ```
-
-2. **Install the required dependencies**:
+1. **Install the required dependencies**:
 
     ```bash
     pip install discord
     ```
 
-3. **Configure the bot**:
+2. **Configure the bot**:
 
     Setup `config.json` 
 
@@ -43,10 +36,10 @@ A simple Discord bot that pings `@everyone` in a specified channel and then inst
 
     Replace `YOUR_BOT_TOKEN_HERE` with your actual bot token, and `YOUR_CHANNEL_ID_HERE` put here with the ID of the channel where you want the bot to ping `@everyone` also in `YOUR_MINUTES_HERE` here put the minutes that will give the bot a notice when to ping again.
 
-4. **Run the bot**:
+3. **Run the bot**:
 
     ```bash
-    python bot.py
+    python main.py
     ```
 
 ## Usage
