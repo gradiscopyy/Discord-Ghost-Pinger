@@ -31,7 +31,7 @@ A simple Discord bot that pings `@everyone` in a specified channel and then inst
 
 3. **Configure the bot**:
 
-    Create a `config.json` file in the root directory with the following content:
+    Setup `config.json` file in the root directory with the following content:
 
     ```json
     {
